@@ -1,0 +1,13 @@
+{
+  "name": "@pipeline/operators-base",
+  "version": "1.0.0",
+  "description": "Basic pipeline operators",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@pipeline/core": "~1.0.1"
+  }
+}
